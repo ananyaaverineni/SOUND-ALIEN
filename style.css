@@ -1,0 +1,34 @@
+body{
+background-color:aquamarine;  
+color:white ;  
+}
+.heading{
+background-color:white;  
+color: red;  
+}
+.heading p{
+font-family: 'Barlow Condensed', sans-serif; 
+font-size: 20px;
+ font-weight:bold ;
+ color: grey;
+ letter-spacing: 2px;
+}
+.maindiv button{
+margin-top: 30px;
+width: 150px;
+font-weight: bolder;
+letter-spacing:3px ;
+}
+#copyrightfooter{
+position: fixed;  
+color: grey;
+bottom:0;  
+width:100%;
+font-size: 18px;
+background-color: white;
+line-height:3;
+text-align: center;
+text-shadow:5px 5px 5px grey;
+margin-bottom: 0px;
+
+}
